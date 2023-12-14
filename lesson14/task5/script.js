@@ -15,7 +15,6 @@ function changeVowels(str) {
 }
 
 
-console.log(changeVowels("aboba"));
 console.log(changeVowels("привет"));
 console.log(changeVowels("Здр3вств8йт11 р14б16т18!"));
 console.log(changeVowels("Здр3вств8йт11 р14б16т18!") == "Здр3вств8йт11 р14б16т18!");
