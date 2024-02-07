@@ -15,4 +15,4 @@ let s4 = 123
 let s5 = true
 let s6;
 
-console.log([s1, s2, s3, s4, s5].map(isValidJson))
+console.log([s1, s2, s3, s4, s5, s6].map(isValidJson))
